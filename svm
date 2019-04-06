@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python3 assign_4$1.py $2 $3 $4 $5 $6
